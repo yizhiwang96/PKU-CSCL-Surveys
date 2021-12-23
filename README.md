@@ -26,5 +26,10 @@
 
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
- BSPNet  | CVPR 2021 | [Link](https://github.com/czq142857/BSP-NET-original) | [Link](https://github.com/czq142857/BSP-NET-original) | Binary Space Partitioning | [Zhiqin Chen](https://www.sfu.ca/~zhiqinc/)(https://github.com/czq142857)
+ BSPNet  | CVPR 2020 | [Link](https://github.com/czq142857/BSP-NET-original) | [Link](https://github.com/czq142857/BSP-NET-original) | Binary Space Partitioning | [Zhiqin Chen](https://www.sfu.ca/~zhiqinc/)
  
+## Diffentiable Rendering
+
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+ DiffVG  | Siggraph Asia 2020 | [Link](https://github.com/BachiLi/diffvg) | [Link](https://people.csail.mit.edu/tzumao/diffvg/) | Monte Carlo sampling | [Tzu-Mao Li](https://people.csail.mit.edu/tzumao/)
