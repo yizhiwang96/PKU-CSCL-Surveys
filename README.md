@@ -25,7 +25,7 @@
  EG3D | Arxiv | [Link](https://github.com/NVlabs/eg3d) | [Link](https://matthew-a-chan.github.io/EG3D/?s=05) | - | [Eric Ryan Chan](https://ericryanchan.github.io/)
  Light Field NR | Arxiv | [Link](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) | [Link](https://light-field-neural-rendering.github.io/?s=05) | - | [Mohammed Suhail](https://mohammedsuhail.net/)
  GRAM  | Arxiv | - | [Link](https://yudeng.github.io/GRAM/) | Isosurfaces For Point Sampling | [Yu Deng](https://yudeng.github.io/)
-
+CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and NeRF-based generator | Peng Zhou
 ## Implict function
 
  Method  | Publication  | Code | Project | Core Idea | Authors
