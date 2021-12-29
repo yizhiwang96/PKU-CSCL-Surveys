@@ -13,6 +13,10 @@
  SketchRNN  | ICLR 2018 | - | [Link](https://experiments.withgoogle.com/sketch-rnn-demo) | Seq2Seq and GMM | [David Ha](https://twitter.com/hardmaru/)
  
 ## Texture Transfer and Synthesis
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+CoCosNet-v2  | CVPR 2021 | [Link](https://https://github.com/microsoft/CoCosNet-v2) | - |  full-resolution correspondence learning for cross-domain images | -
+
 
 ## Novel View Synthesis, NeRF
 
