@@ -6,12 +6,13 @@
  ---- | ----- | ------  | ------ | ------ | ------ 
  DeepVecFont  | SIGGRAPH Asia 2021 | [Link](https://github.com/yizhiwang96/deepvecfont) | [Link](https://yizhiwang96.github.io/deepvecfont_homepage/) | Dual-modality learning and Diff Rendering | [Yizhi Wang](https://yizhiwang96.github.io/)
 
-## Handwritting Generation
+## Handwritting Sequence
 
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
  SketchRNN  | ICLR 2018 | - | [Link](https://experiments.withgoogle.com/sketch-rnn-demo) | Seq2Seq and GMM | [David Ha](https://twitter.com/hardmaru/)
- 
+ Oneshot Sketch Segmentation| [Arxiv](https://arxiv.org/pdf/2112.10838.pdf) | - | - | GCN as encoder, deformation for one shot | [Yulia Gryaditskaya](https://yulia.gryaditskaya.com/)
+
 ## Texture Transfer and Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
@@ -46,8 +47,3 @@ Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/proje
  ---- | ----- | ------  | ------ | ------ | ------ 
  DiffVG  | Siggraph Asia 2020 | [Link](https://github.com/BachiLi/diffvg) | [Link](https://people.csail.mit.edu/tzumao/diffvg/) | Monte Carlo sampling | [Tzu-Mao Li](https://people.csail.mit.edu/tzumao/)
  
- ## Sketch
-
- Method  | Publication  | Code | Project | Core Idea | Authors
- ---- | ----- | ------  | ------ | ------ | ------ 
- Oneshot Sketch Segmentation| [Arxiv](https://arxiv.org/pdf/2112.10838.pdf) | - | - | GCN as encoder, deformation for one shot | [Yulia Gryaditskaya](https://yulia.gryaditskaya.com/)
