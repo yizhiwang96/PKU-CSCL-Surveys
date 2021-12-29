@@ -15,7 +15,9 @@
 ## Texture Transfer and Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
-CoCosNet-v2  | CVPR 2021 | [Link](https://https://github.com/microsoft/CoCosNet-v2) | - |  full-resolution correspondence learning for cross-domain images | -
+ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  full-resolution cross-domain | - |
+Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | - |
+CoCosNet-v2  | CVPR 2021 | [Link](https://https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | - |
 
 
 ## Novel View Synthesis, NeRF
