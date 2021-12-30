@@ -10,7 +10,7 @@
 
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
- SketchRNN  | ICLR 2018 | [Link](https://github.com/magenta/magenta/blob/main/magenta/models/sketch_rnn/README.md) | [Link](https://experiments.withgoogle.com/sketch-rnn-demo) | Seq2Seq and GMM | [David Ha](https://twitter.com/hardmaru/)
+ SketchRNN  | ICLR 2018 | [Deprecated](https://github.com/hardmaru/sketch-rnn/) [Link](https://github.com/magenta/magenta/blob/main/magenta/models/sketch_rnn/README.md) | [Link](https://experiments.withgoogle.com/sketch-rnn-demo) | Seq2Seq and GMM | [David Ha](https://twitter.com/hardmaru/)
  Oneshot Sketch Segmentation| [Arxiv](https://arxiv.org/pdf/2112.10838.pdf) | - | - | GCN as encoder, deformation for one shot | [Yulia Gryaditskaya](https://yulia.gryaditskaya.com/)
 
 ## Texture Transfer and Synthesis
