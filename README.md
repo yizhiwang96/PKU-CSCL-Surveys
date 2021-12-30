@@ -5,7 +5,12 @@
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
  DeepVecFont  | SIGGRAPH Asia 2021 | [Link](https://github.com/yizhiwang96/deepvecfont) | [Link](https://yizhiwang96.github.io/deepvecfont_homepage/) | Dual-modality learning and Diff Rendering | [Yizhi Wang](https://yizhiwang96.github.io/)
-
+ LF-Font | AAAI 2021 | [Link](https://github.com/clovaai/lffont) | - | components decomposition | [Song Park](https://8uos.github.io/)
+ MX-Font | ECCV 2021 | [Link](https://github.com/clovaai/mxfont) | - | multiple experts to represent different local concepts | [Song Park](https://8uos.github.io/)
+ MLFont | ICMR 2021 | [Link](https://github.com/Listening33/MLFont) | - | deep meta learning | Xu Chen
+ DG-font | CVPR 2021 | [Link](https://github.com/ecnuycxie/DG-Font) | - | Deformable generative networks | Yangchen Xie
+ ZiGAN | MM 2021 | - | - | Few-shot calligraphy font generation |Qi Wen, Shuang Li
+ 
 ## Handwritting Sequence
 
  Method  | Publication  | Code | Project | Core Idea | Authors
