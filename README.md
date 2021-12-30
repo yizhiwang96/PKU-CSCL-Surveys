@@ -18,7 +18,7 @@
  ---- | ----- | ------  | ------ | ------ | ------ 
 ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  full-resolution cross-domain | Yifang Men |
 Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | Patrick Esser*, Robin Rombach*, Björn Ommer |
-CoCosNet-v2  | CVPR 2021 | [Link](https://https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | Xingran Zhou, Bo Zhang |
+CoCosNet-v2  | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | Xingran Zhou, Bo Zhang |
 
 ## Segmentation
  Method  | Publication  | Code | Project | Core Idea | Authors
