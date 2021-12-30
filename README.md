@@ -32,6 +32,7 @@ MaskFormer  | NeurIPS 2021 | [Link](https://github.com/facebookresearch/MaskForm
  ---- | ----- | ------  | ------ | ------ | ------ 
  3D Ken  | SIGGRAPH 2019 | [Link](https://github.com/sniklaus/3d-ken-burns) | - | RGBD Inpainting and Point Cloud Rendering | [Simon Niklaus](http://sniklaus.com/welcome)
  3D Photo  | CVPR 2020 | [Link](https://github.com/vt-vl-lab/3d-photo-inpainting) | [Link](https://shihmengli.github.io/3D-Photo-Inpainting/)  | Layered RGBD Inpainting | [Meng-Li Shih](https://shihmengli.github.io/) 
+ NeRF | ECCV 2020 | [Link](https://github.com/bmild/nerf) | [Link](https://www.matthewtancik.com/nerf) | Radiance Field for Volume Rendering | [Ben Mildenhall](https://bmild.github.io/) 
  NeX | CVPR 2021 | [Link](https://github.com/nex-mpi/nex-code/) | [Link](https://nex-mpi.github.io/) | - | Suttisak Wizadwongsa
  Nerfies | ICCV 2021 | [Link](https://github.com/google/nerfies) | [Link](https://nerfies.github.io/) | - | [Keunhong Park](https://keunhong.com/)
  EG3D | Arxiv | [Link](https://github.com/NVlabs/eg3d) | [Link](https://matthew-a-chan.github.io/EG3D/?s=05) | - | [Eric Ryan Chan](https://ericryanchan.github.io/)
