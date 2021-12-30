@@ -5,7 +5,8 @@
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
  DeepVecFont  | SIGGRAPH Asia 2021 | [Link](https://github.com/yizhiwang96/deepvecfont) | [Link](https://yizhiwang96.github.io/deepvecfont_homepage/) | Dual-modality learning and Diff Rendering | [Yizhi Wang](https://yizhiwang96.github.io/)
- LF-Font | AAAI | [Link](https://github.com/clovaai/lffont) | - | components decomposition | [Link](https://8uos.github.io/)
+ LF-Font | AAAI 2021 | [Link](https://github.com/clovaai/lffont) | - | components decomposition | [Song Park](https://8uos.github.io/)
+ MX-Font | ECCV 2021 | [Link](https://github.com/clovaai/mxfont) | - | multiple experts to represent different local concepts | [Song Park](https://8uos.github.io/
 
 ## Handwritting Sequence
 
