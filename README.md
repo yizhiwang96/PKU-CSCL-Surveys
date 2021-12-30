@@ -16,9 +16,9 @@
 ## Texture Transfer and Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
-ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  full-resolution cross-domain | Yifang Men |
-Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | Patrick Esser*, Robin Rombach*, Björn Ommer |
-CoCosNet-v2  | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | Xingran Zhou, Bo Zhang |
+ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  full-resolution cross-domain | [Yifang Men](https://menyifang.github.io/) |
+Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | [Björn Ommer](https://ommer-lab.com/people/ommer/) |
+CoCosNet-v2  | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | [Xingran Zhou](https://xingranzh.github.io/), [Bo Zhang](https://bo-zhang.me/) |
 
 ## Segmentation
  Method  | Publication  | Code | Project | Core Idea | Authors
