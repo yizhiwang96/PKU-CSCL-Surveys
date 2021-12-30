@@ -16,9 +16,14 @@
 ## Texture Transfer and Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
-ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  full-resolution cross-domain | - |
-Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | - |
-CoCosNet-v2  | CVPR 2021 | [Link](https://https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | - |
+ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  full-resolution cross-domain | Yifang Men |
+Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | Patrick Esser*, Robin Rombach*, Björn Ommer |
+CoCosNet-v2  | CVPR 2021 | [Link](https://https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | Xingran Zhou, Bo Zhang |
+
+## Segmentation
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+MaskFormer  | NeurIPS 2021 | [Link](https://github.com/facebookresearch/MaskFormer) | - |  mask classification with Transformers | Bowen Cheng |
 
 
 ## Novel View Synthesis, NeRF
