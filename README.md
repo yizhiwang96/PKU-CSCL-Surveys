@@ -37,7 +37,7 @@ Flow++  | - | [Link](https://github.com/aravindsrinivas/flowpp) | - |  Improving
 ## Segmentation
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
-MaskFormer  | NeurIPS 2021 | [Link](https://github.com/facebookresearch/MaskFormer) | - |  mask classification with Transformers | Bowen Cheng |
+MaskFormer  | NeurIPS 2021 | [Link](https://github.com/facebookresearch/MaskFormer) | - |  mask classification with Transformers | [Bowen Cheng](https://github.com/bowenc0221) |
 
 
 ## Novel View Synthesis, NeRF
