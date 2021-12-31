@@ -21,6 +21,8 @@
 ## Texture Transfer and Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
+pix2pixHD  | CVPR 2018 | [Link](https://github.com/NVIDIA/pix2pixHD) | - |  High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | [Ting-Chun Wang](https://tcwang0509.github.io/) |
+SPADE  | CVPR 2019 | [Link](https://github.com/NVlabs/SPADE) | - |  Semantic Image Synthesis with Spatially-Adaptive Normalization | [Taesung Park](https://taesung.me/) |
 ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  Attribute-Decomposed | [Yifang Men](https://menyifang.github.io/) |
 Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | [Björn Ommer](https://ommer-lab.com/people/ommer/) |
 CoCosNet-v2  | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | - | full-resolution cross-domain with feature-level PatchMatch  | [Xingran Zhou](https://xingranzh.github.io/), [Bo Zhang](https://bo-zhang.me/) |
