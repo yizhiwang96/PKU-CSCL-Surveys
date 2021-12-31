@@ -21,9 +21,18 @@
 ## Texture Transfer and Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
-ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  full-resolution cross-domain | [Yifang Men](https://menyifang.github.io/) |
+ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  Attribute-Decomposed | [Yifang Men](https://menyifang.github.io/) |
 Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | [Björn Ommer](https://ommer-lab.com/people/ommer/) |
-CoCosNet-v2  | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | - |  Attribute-Decomposed | [Xingran Zhou](https://xingranzh.github.io/), [Bo Zhang](https://bo-zhang.me/) |
+CoCosNet-v2  | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | - | full-resolution cross-domain with feature-level PatchMatch  | [Xingran Zhou](https://xingranzh.github.io/), [Bo Zhang](https://bo-zhang.me/) |
+ASAPNet | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | [Link](https://tamarott.github.io/ASAPNet_web/) |  Spatially-Adaptive Pixelwise Networks for Fast Image Translation | [Tamar Rott Shaham](https://github.com/tamarott) |
+
+## Deep Generative models
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+DDPM  | - | [Link](https://github.com/hojonathanho/diffusion) | - |  Denoising Diffusion Probabilistic Models | [Jonathan Ho](https://github.com/hojonathanho) |
+Flow++  | - | [Link](https://github.com/aravindsrinivas/flowpp) | - |  Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design | [Jonathan Ho](https://github.com/hojonathanho) |
+
+
 
 ## Segmentation
  Method  | Publication  | Code | Project | Core Idea | Authors
