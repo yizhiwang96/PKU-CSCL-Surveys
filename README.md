@@ -11,12 +11,14 @@
  DG-font | CVPR 2021 | [Link](https://github.com/ecnuycxie/DG-Font) | - | Deformable generative networks | Yangchen Xie
  ZiGAN | MM 2021 | - | - | Few-shot calligraphy font generation |Qi Wen, Shuang Li
  
-## Handwritting Sequence
+## Handwritting, Sketch and Vectorzation
 
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
  SketchRNN  | ICLR 2018 | [Deprecated](https://github.com/hardmaru/sketch-rnn/) [Link](https://github.com/magenta/magenta/blob/main/magenta/models/sketch_rnn/README.md) | [Link](https://experiments.withgoogle.com/sketch-rnn-demo) | Seq2Seq and GMM | [David Ha](https://twitter.com/hardmaru/)
+GVSF | SIGGRAPH 2021 | [Link](https://github.com/MarkMoHR/virtual_sketching) | [Link](https://markmohr.github.io/virtual_sketching/) | CRNN for cropped Windows and then pasting | [Haoran Mo](http://mo-haoran.com/)
  Oneshot Sketch Segmentation| [Arxiv](https://arxiv.org/pdf/2112.10838.pdf) | - | - | GCN as encoder, deformation for one shot | [Yulia Gryaditskaya](https://yulia.gryaditskaya.com/)
+
 
 ## Texture Transfer and Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
