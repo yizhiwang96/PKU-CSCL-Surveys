@@ -76,4 +76,4 @@ Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/proje
 ## Scene Text Detection and Recognition
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
- RPI | WACV 2022 | - | - | - | Rectifying Principle Irregularities | [Fan Bai](https://scholar.google.com/citations?user=o-6RFGEAAAAJ&hl=en&oi=ao)
+ RPI | WACV 2022 | - | - | Rectifying Principle Irregularities | [Fan Bai](https://scholar.google.com/citations?user=o-6RFGEAAAAJ&hl=en&oi=ao)
