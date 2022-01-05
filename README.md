@@ -18,7 +18,8 @@
  SketchRNN  | ICLR 2018 | [Deprecated](https://github.com/hardmaru/sketch-rnn/) [Link](https://github.com/magenta/magenta/blob/main/magenta/models/sketch_rnn/README.md) | [Link](https://experiments.withgoogle.com/sketch-rnn-demo) | Seq2Seq and GMM | [David Ha](https://twitter.com/hardmaru/)
 SketchFormer | CVPR 2020 | [Link](https://github.com/leosampaio/sketchformer) | - | Transformers AutoEncoder | [Leo S.F. Ribeiro](https://twitter.com/a_leosampaio)
 GVSF | SIGGRAPH 2021 | [Link](https://github.com/MarkMoHR/virtual_sketching) | [Link](https://markmohr.github.io/virtual_sketching/) | CRNN for cropped Windows and then pasting | [Haoran Mo](http://mo-haoran.com/)
- Oneshot Sketch Segmentation| [Arxiv](https://arxiv.org/pdf/2112.10838.pdf) | - | - | GCN as encoder, deformation for one shot | [Yulia Gryaditskaya](https://yulia.gryaditskaya.com/)
+Oneshot Sketch Segmentation| [Arxiv](https://arxiv.org/pdf/2112.10838.pdf) | - | - | GCN as encoder, deformation for one shot | [Yulia Gryaditskaya](https://yulia.gryaditskaya.com/)
+YOLaT| NIPS 2021| - | - | Recognizing Vector Graphics without Rasterization | [Xinyang Jiang](https://scholar.google.com/citations?user=JiTfWVMAAAAJ)
 
 
 ## Texture Transfer and Synthesis
