@@ -79,3 +79,8 @@ Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/proje
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
  RPI | WACV 2022 | - | - | Rectifying Principle Irregularities | [Fan Bai](https://scholar.google.com/citations?user=o-6RFGEAAAAJ&hl=en&oi=ao)
+ 
+ ## Multimodal Synthesis
+  Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+  GLIDE  | [arXiv](https://arxiv.org/pdf/2112.10741.pdf) | [Link](https://github.com/openai/glide-text2im) | [demo](https://huggingface.co/spaces/valhalla/glide-text2im) | Text-guided image generation and editing with diffusion models | [Alex Nichol](https://aqnichol.com/)
