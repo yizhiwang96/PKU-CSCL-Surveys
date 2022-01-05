@@ -73,3 +73,7 @@ Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/proje
  ---- | ----- | ------  | ------ | ------ | ------ 
  DiffVG  | Siggraph Asia 2020 | [Link](https://github.com/BachiLi/diffvg) | [Link](https://people.csail.mit.edu/tzumao/diffvg/) | Monte Carlo sampling | [Tzu-Mao Li](https://people.csail.mit.edu/tzumao/)
  
+## Scene Text Detection and Recognition
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+ RPI | WACV 2022 | - | - | - | Rectifying Principle Irregularities | [Fan Bai](https://scholar.google.com/citations?user=o-6RFGEAAAAJ&hl=en&oi=ao)
