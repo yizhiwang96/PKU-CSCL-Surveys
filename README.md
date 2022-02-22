@@ -66,6 +66,17 @@ Plenoxels | Arxiv | [Link](https://github.com/sxyu/svox2) | [Link](https://alexy
 Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/) | pose(SMPL)-guided view synthesis | [Lingjie Liu](https://lingjie0206.github.io/)
 ING | Arxiv 2022 | [Link](https://nvlabs.github.io/instant-ngp/) | [Link](https://github.com/NVlabs/instant-ngp) | - | [Thomas Müller](https://tom94.net/)
 
+## 3D-aware Image Synthesis
+
+Method  | Publication  | Code | Project | Core Idea | Authors
+---- | ----- | ------  | ------ | ------ | ------ 
+pi-GAN | CVPR 2021(Oral) | [Link](https://github.com/marcoamonteiro/pi-GAN) | [Link](https://marcoamonteiro.github.io/pi-GAN-website/) | represent scenes as view-consistent radiance fields | [Eric Chan](https://ericryanchan.github.io/)
+GIRAFFE | CVPR 2021(Oral) | [Link](https://github.com/autonomousvision/giraffe) | [Link](https://m-niemeyer.github.io/project-pages/giraffe/index.html) | representing scenes as compositional generative neural feature fields (same as pi-GAN?) but can disentangle individual objects and do some edits | [Michael Niemeyer](https://m-niemeyer.github.io)
+GRAM  | Arxiv | - | [Link](https://yudeng.github.io/GRAM/) | Isosurfaces For Point Sampling | [Yu Deng](https://yudeng.github.io/)
+eg3d | Arxiv | [Link](https://github.com/NVlabs/eg3d) | [Link](https://matthew-a-chan.github.io/EG3D/?s=05) | hybrid explicit–implicit tri-plane representation  | [Eric Chan](https://ericryanchan.github.io/) [same as pi-GAN]
+
+
+
 ## Implict function
 
  Method  | Publication  | Code | Project | Core Idea | Authors
