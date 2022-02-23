@@ -56,6 +56,7 @@ Labels4Free  | ICCV 2021 | - | [Link](https://rameenabdal.github.io/Labels4Free/
  ### Novel View Synthesis (NeRF-alike)
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
+ Neural Volumes | SIGGRAPH 2019 | [Link](https://github.com/facebookresearch/neuralvolumes) | [Link](https://stephenlombardi.github.io/projects/neuralvolumes/) | Neural Volume Rendering | [Stephen Lombardi](https://stephenlombardi.github.io/)
  NeRF | ECCV 2020 | [Link](https://github.com/bmild/nerf) | [Link](https://www.matthewtancik.com/nerf) | Radiance Field for Volume Rendering | [Ben Mildenhall](https://bmild.github.io/) 
  NeX | CVPR 2021 | [Link](https://github.com/nex-mpi/nex-code/) | [Link](https://nex-mpi.github.io/) | - | Suttisak Wizadwongsa
  Nerfies | ICCV 2021 | [Link](https://github.com/google/nerfies) | [Link](https://nerfies.github.io/) | - | [Keunhong Park](https://keunhong.com/)
