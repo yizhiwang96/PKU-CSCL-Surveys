@@ -47,33 +47,32 @@ LDMs | arxiv | [Link](https://github.com/CompVis/latent-diffusion) | - | Autoreg
 MaskFormer  | NeurIPS 2021 | [Link](https://github.com/facebookresearch/MaskFormer) | - |  mask classification with Transformers | [Bowen Cheng](https://github.com/bowenc0221) |
 Labels4Free  | ICCV 2021 | - | [Link](https://rameenabdal.github.io/Labels4Free/) |  Unsupervised Segmentation using StyleGAN | [Rameen Abdal](https://scholar.google.com/citations?user=kEQimk0AAAAJ&hl=en) |
 
-
-## Novel View Synthesis, NeRF
-
+## 3D Vision
+### Novel View Synthesis (Image Inpainting)
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
  3D Ken  | SIGGRAPH 2019 | [Link](https://github.com/sniklaus/3d-ken-burns) | - | RGBD Inpainting and Point Cloud Rendering | [Simon Niklaus](http://sniklaus.com/welcome)
  3D Photo  | CVPR 2020 | [Link](https://github.com/vt-vl-lab/3d-photo-inpainting) | [Link](https://shihmengli.github.io/3D-Photo-Inpainting/)  | Layered RGBD Inpainting | [Meng-Li Shih](https://shihmengli.github.io/) 
+ ### Novel View Synthesis (NeRF-alike)
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
  NeRF | ECCV 2020 | [Link](https://github.com/bmild/nerf) | [Link](https://www.matthewtancik.com/nerf) | Radiance Field for Volume Rendering | [Ben Mildenhall](https://bmild.github.io/) 
  NeX | CVPR 2021 | [Link](https://github.com/nex-mpi/nex-code/) | [Link](https://nex-mpi.github.io/) | - | Suttisak Wizadwongsa
  Nerfies | ICCV 2021 | [Link](https://github.com/google/nerfies) | [Link](https://nerfies.github.io/) | - | [Keunhong Park](https://keunhong.com/)
  KiloNeRF | ICCV 2021 | [Link](https://github.com/creiser/kilonerf) | [Link](https://creiser.github.io/kilonerf/) | thousands of tiny MLPs | [Songyou Peng](https://pengsongyou.github.io/)
- EG3D | Arxiv | [Link](https://github.com/NVlabs/eg3d) | [Link](https://matthew-a-chan.github.io/EG3D/?s=05) | hybrid explicit–implicit tri-plane representation  | [Eric Ryan Chan](https://ericryanchan.github.io/)
  Light Field NR | Arxiv | [Link](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) | [Link](https://light-field-neural-rendering.github.io/?s=05) | - | [Mohammed Suhail](https://mohammedsuhail.net/)
+ Plenoxels | Arxiv | [Link](https://github.com/sxyu/svox2) | [Link](https://alexyu.net/plenoxels/) | 3D grid with spherical harmonics,without neural network | [Alex Yu](https://alexyu.net/)
+ ING | Arxiv 2022 | [Link](https://nvlabs.github.io/instant-ngp/) | [Link](https://github.com/NVlabs/instant-ngp) | - | [Thomas Müller](https://tom94.net/)
+  ### 3D-aware Image Synthesis (NeRF + GAN)
+   Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+  pi-GAN | CVPR 2021(Oral) | [Link](https://github.com/marcoamonteiro/pi-GAN) | [Link](https://marcoamonteiro.github.io/pi-GAN-website/) | represent scenes as view-consistent radiance fields | [Eric Chan](https://ericryanchan.github.io/)
+  GIRAFFE | CVPR 2021(Oral) | [Link](https://github.com/autonomousvision/giraffe) | [Link](https://m-niemeyer.github.io/project-pages/giraffe/index.html) | representing scenes as compositional generative neural feature fields (same as pi-GAN?) but can disentangle individual objects and do some edits | [Michael Niemeyer](https://m-niemeyer.github.io)
+ Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/) | pose(SMPL)-guided view synthesis | [Lingjie Liu](https://lingjie0206.github.io/)
  GRAM  | Arxiv | - | [Link](https://yudeng.github.io/GRAM/) | Isosurfaces For Point Sampling | [Yu Deng](https://yudeng.github.io/)
+  EG3D | Arxiv | [Link](https://github.com/NVlabs/eg3d) | [Link](https://matthew-a-chan.github.io/EG3D/?s=05) | hybrid explicit–implicit tri-plane representation  | [Eric Ryan Chan](https://ericryanchan.github.io/)
 CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and NeRF-based generator | Peng Zhou
-Plenoxels | Arxiv | [Link](https://github.com/sxyu/svox2) | [Link](https://alexyu.net/plenoxels/) | 3D grid with spherical harmonics,without neural network | [Alex Yu](https://alexyu.net/)
-Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/) | pose(SMPL)-guided view synthesis | [Lingjie Liu](https://lingjie0206.github.io/)
-ING | Arxiv 2022 | [Link](https://nvlabs.github.io/instant-ngp/) | [Link](https://github.com/NVlabs/instant-ngp) | - | [Thomas Müller](https://tom94.net/)
 
-## 3D-aware Image Synthesis
-
-Method  | Publication  | Code | Project | Core Idea | Authors
----- | ----- | ------  | ------ | ------ | ------ 
-pi-GAN | CVPR 2021(Oral) | [Link](https://github.com/marcoamonteiro/pi-GAN) | [Link](https://marcoamonteiro.github.io/pi-GAN-website/) | represent scenes as view-consistent radiance fields | [Eric Chan](https://ericryanchan.github.io/)
-GIRAFFE | CVPR 2021(Oral) | [Link](https://github.com/autonomousvision/giraffe) | [Link](https://m-niemeyer.github.io/project-pages/giraffe/index.html) | representing scenes as compositional generative neural feature fields (same as pi-GAN?) but can disentangle individual objects and do some edits | [Michael Niemeyer](https://m-niemeyer.github.io)
-GRAM  | Arxiv | - | [Link](https://yudeng.github.io/GRAM/) | Isosurfaces For Point Sampling | [Yu Deng](https://yudeng.github.io/)
-eg3d | Arxiv | [Link](https://github.com/NVlabs/eg3d) | [Link](https://matthew-a-chan.github.io/EG3D/?s=05) | hybrid explicit–implicit tri-plane representation  | [Eric Chan](https://ericryanchan.github.io/) [same as pi-GAN]
 
 
 
