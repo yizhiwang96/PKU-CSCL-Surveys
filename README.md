@@ -61,6 +61,7 @@ Labels4Free  | ICCV 2021 | - | [Link](https://rameenabdal.github.io/Labels4Free/
  NeX | CVPR 2021 | [Link](https://github.com/nex-mpi/nex-code/) | [Link](https://nex-mpi.github.io/) | - | Suttisak Wizadwongsa
  Nerfies | ICCV 2021 | [Link](https://github.com/google/nerfies) | [Link](https://nerfies.github.io/) | - | [Keunhong Park](https://keunhong.com/)
  KiloNeRF | ICCV 2021 | [Link](https://github.com/creiser/kilonerf) | [Link](https://creiser.github.io/kilonerf/) | thousands of tiny MLPs | [Songyou Peng](https://pengsongyou.github.io/)
+  Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/) | pose(SMPL)-guided view synthesis | [Lingjie Liu](https://lingjie0206.github.io/)
  Light Field NR | Arxiv | [Link](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) | [Link](https://light-field-neural-rendering.github.io/?s=05) | - | [Mohammed Suhail](https://mohammedsuhail.net/)
  Plenoxels | Arxiv | [Link](https://github.com/sxyu/svox2) | [Link](https://alexyu.net/plenoxels/) | 3D grid with spherical harmonics,without neural network | [Alex Yu](https://alexyu.net/)
  ING | Arxiv 2022 | [Link](https://nvlabs.github.io/instant-ngp/) | [Link](https://github.com/NVlabs/instant-ngp) | - | [Thomas Müller](https://tom94.net/)
@@ -69,7 +70,6 @@ Labels4Free  | ICCV 2021 | - | [Link](https://rameenabdal.github.io/Labels4Free/
  ---- | ----- | ------  | ------ | ------ | ------ 
   pi-GAN | CVPR 2021(Oral) | [Link](https://github.com/marcoamonteiro/pi-GAN) | [Link](https://marcoamonteiro.github.io/pi-GAN-website/) | represent scenes as view-consistent radiance fields | [Eric Chan](https://ericryanchan.github.io/)
   GIRAFFE | CVPR 2021(Oral) | [Link](https://github.com/autonomousvision/giraffe) | [Link](https://m-niemeyer.github.io/project-pages/giraffe/index.html) | representing scenes as compositional generative neural feature fields (same as pi-GAN?) but can disentangle individual objects and do some edits | [Michael Niemeyer](https://m-niemeyer.github.io)
- Neural Actor | SIGGRAPH Asia 2021 | - | [Link](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/) | pose(SMPL)-guided view synthesis | [Lingjie Liu](https://lingjie0206.github.io/)
  GRAM  | Arxiv | - | [Link](https://yudeng.github.io/GRAM/) | Isosurfaces For Point Sampling | [Yu Deng](https://yudeng.github.io/)
   EG3D | Arxiv | [Link](https://github.com/NVlabs/eg3d) | [Link](https://matthew-a-chan.github.io/EG3D/?s=05) | hybrid explicit–implicit tri-plane representation  | [Eric Ryan Chan](https://ericryanchan.github.io/)
 CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and NeRF-based generator | Peng Zhou
