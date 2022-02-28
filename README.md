@@ -22,7 +22,7 @@ Oneshot Sketch Segmentation| [Arxiv](https://arxiv.org/pdf/2112.10838.pdf) | - |
 YOLaT| [NIPS 2021](https://openreview.net/forum?id=_ZXlOpdufFJ)| - | - | Recognizing Vector Graphics without Rasterization | [Xinyang Jiang](https://scholar.google.com/citations?user=JiTfWVMAAAAJ)
 
 
-## Texture Transfer and Synthesis
+## Image and Texture Synthesis
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
 pix2pixHD  | CVPR 2018 | [Link](https://github.com/NVIDIA/pix2pixHD) | - |  High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | [Ting-Chun Wang](https://tcwang0509.github.io/) |
@@ -30,7 +30,10 @@ SPADE  | CVPR 2019 | [Link](https://github.com/NVlabs/SPADE) | - |  Semantic Ima
 ADGAN  | CVPR 2020 | [Link](https://github.com/menyifang/ADGAN) | - |  Attribute-Decomposed | [Yifang Men](https://menyifang.github.io/) |
 Taming Transformers  | CVPR 2021 | [Link](https://github.com/CompVis/taming-transformers) | - |  VQ-GAN and Transformers | [Björn Ommer](https://ommer-lab.com/people/ommer/) |
 CoCosNet-v2  | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | - | full-resolution cross-domain with feature-level PatchMatch  | [Xingran Zhou](https://xingranzh.github.io/), [Bo Zhang](https://bo-zhang.me/) |
-ASAPNet | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | [Link](https://tamarott.github.io/ASAPNet_web/) |  Spatially-Adaptive Pixelwise Networks for Fast Image Translation | [Tamar Rott Shaham](https://github.com/tamarott) |
+ASAPNet | CVPR 2021 | - | [Link](https://tamarott.github.io/ASAPNet_web/) |  Spatially-Adaptive Pixelwise Networks for Fast Image Translation | [Tamar Rott Shaham](https://github.com/tamarott) |
+CIPS | CVPR 2021 | [Link](https://github.com/saic-mdal/CIPS) | - |  Image Generators with Conditionally-Independent Pixel Synthesis | [I. Anokhin] |
+MaskGIT | - | [Link](https://github.com/saic-mdal/CIPS) | - |  Masked Generative Image Transformer | [Huiwen Chang] |
+
 
 ## Deep Generative models
  Method  | Publication  | Code | Project | Core Idea | Authors
@@ -38,8 +41,9 @@ ASAPNet | CVPR 2021 | [Link](https://github.com/microsoft/CoCosNet-v2) | [Link](
 DDPM  | - | [Link](https://github.com/hojonathanho/diffusion) | - |  Denoising Diffusion Probabilistic Models | [Jonathan Ho](https://github.com/hojonathanho) |
 Flow++  | - | [Link](https://github.com/aravindsrinivas/flowpp) | - |  Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design | [Jonathan Ho](https://github.com/hojonathanho) |
 LDMs | arxiv | [Link](https://github.com/CompVis/latent-diffusion) | - | Autoregressive and diffusion models | [Robin Rombach](https://scholar.google.com/citations?user=ygdQhrIAAAAJ&hl=zh-CN&oi=sra)
-
-
+DenseFlow | NIPS 2021 | - | - | Densely connected normalizing flows | [Matej Grcic]
+LSGM | NIPS 2021 | - | -  | Score-based Generative Modeling in Latent Space | [Arash Vahdat]
+Progressive Distillation | ICLR 2022 | - | -  | PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS | [Jonathan Ho](https://github.com/hojonathanho) 
 
 ## Segmentation
  Method  | Publication  | Code | Project | Core Idea | Authors
