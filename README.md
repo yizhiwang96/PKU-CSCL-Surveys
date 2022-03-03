@@ -49,7 +49,8 @@ Progressive Distillation | ICLR 2022 | - | -  | PROGRESSIVE DISTILLATION FOR FAS
 ## Attractive Image Generation
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
-GBCI  | IEEE TAC | [Link](https://ieeexplore.ieee.org/document/9353984) | - |  Brain-computer interface for generating personally attractive images | [Michiel Spape](http://cognitology.eu/) |
+GBCI  | [IEEE TAFFC](https://ieeexplore.ieee.org/document/9353984) | - | - |  Brain-computer interface for generating personally attractive images | [Michiel Spape](http://cognitology.eu/) |
+ICE  | [arXiv](https://arxiv.org/abs/2201.09689) | [Link](https://github.com/prclibo/ice) | - |  Interpretable Control Exploration and Counterfactual Explanation on StyleGAN | [Bo Li](http://prclibo.github.io/) |
 
 
 ## Segmentation
