@@ -34,7 +34,7 @@ ASAPNet | CVPR 2021 | - | [Link](https://tamarott.github.io/ASAPNet_web/) |  Spa
 CIPS | CVPR 2021 | [Link](https://github.com/saic-mdal/CIPS) | - |  Image Generators with Conditionally-Independent Pixel Synthesis | [I. Anokhin] |
 MaskGIT | - | [Link](https://github.com/saic-mdal/CIPS) | - |  Masked Generative Image Transformer | [Huiwen Chang] |
 StyleGAN3 | NeurIPS 2021 | [Link](https://github.com/NVlabs/stylegan3) | - |  Alias-Free Generative Adversarial Networks | [Tero Karras] |
-
+Projected GANs | NeurIPS 2021 | [Link](https://github.com/autonomousvision/projected_gan) | [Link](https://sites.google.com/view/projected-gan) |  Train GANs in pretrained feature spaces | [Axel Sauer](https://axelsauer.com/) |
 
 ## Deep Generative models
  Method  | Publication  | Code | Project | Core Idea | Authors
