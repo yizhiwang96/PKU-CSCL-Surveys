@@ -59,6 +59,7 @@ ICE  | [arXiv](https://arxiv.org/abs/2201.09689) | [Link](https://github.com/prc
 MaskFormer  | NeurIPS 2021 | [Link](https://github.com/facebookresearch/MaskFormer) | - |  mask classification with Transformers | [Bowen Cheng](https://github.com/bowenc0221) |
 Labels4Free  | ICCV 2021 | - | [Link](https://rameenabdal.github.io/Labels4Free/) |  Unsupervised Segmentation using StyleGAN | [Rameen Abdal](https://scholar.google.com/citations?user=kEQimk0AAAAJ&hl=en) |
 ProDA  | CVPR 2021 | [Link](https://github.com/microsoft/ProDA) | - |  prototypical pseudo label denoising | [Pan Zhang](https://panzhang0212.github.io/) |
+CPS  | CVPR 2021 | [Link](https://github.com/charlesCXK/TorchSemiSeg) | - |  cross pseudo supervision | [Xiaokang Chen](https://charlescxk.github.io/) |
 
 ## 3D Vision
 ### Novel View Synthesis (Image Inpainting)
