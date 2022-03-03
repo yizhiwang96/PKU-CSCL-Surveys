@@ -46,6 +46,12 @@ DenseFlow | NIPS 2021 | - | - | Densely connected normalizing flows | [Matej Grc
 LSGM | NeurIPS 2021 | - | -  | Score-based Generative Modeling in Latent Space | [Arash Vahdat]
 Progressive Distillation | ICLR 2022 | - | -  | PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS | [Jonathan Ho](https://github.com/hojonathanho) 
 
+## Attractive Image Generation
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+GBCI  | - | [Link](https://ieeexplore.ieee.org/document/9353984) | - |  Brain-computer interface for generating personally attractive images | [Michiel Spape](http://cognitology.eu/) |
+
+
 ## Segmentation
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
