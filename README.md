@@ -53,13 +53,18 @@ GBCI  | [IEEE TAFFC](https://ieeexplore.ieee.org/document/9353984) | - | - |  Br
 ICE  | [arXiv](https://arxiv.org/abs/2201.09689) | [Link](https://github.com/prclibo/ice) | - |  Interpretable Control Exploration and Counterfactual Explanation on StyleGAN | [Bo Li](http://prclibo.github.io/) |
 
 
-## Segmentation
+## Semantic Segmentation
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
 MaskFormer  | NeurIPS 2021 | [Link](https://github.com/facebookresearch/MaskFormer) | - |  mask classification with Transformers | [Bowen Cheng](https://github.com/bowenc0221) |
 Labels4Free  | ICCV 2021 | - | [Link](https://rameenabdal.github.io/Labels4Free/) |  Unsupervised Segmentation using StyleGAN | [Rameen Abdal](https://scholar.google.com/citations?user=kEQimk0AAAAJ&hl=en) |
 ProDA  | CVPR 2021 | [Link](https://github.com/microsoft/ProDA) | - |  prototypical pseudo label denoising | [Pan Zhang](https://panzhang0212.github.io/) |
 CPS  | CVPR 2021 | [Link](https://github.com/charlesCXK/TorchSemiSeg) | - |  cross pseudo supervision | [Xiaokang Chen](https://charlescxk.github.io/) |
+SeMask  | arxiv | [Link](https://github.com/Picsart-AI-Research/SeMask-Segmentation) | - |  add semantic context to pretrained backbones | [Jitesh Jain](https://praeclarumjj3.github.io/) |
+MaX-DeepLab  | CVPR 2021 | [Link](https://github.com/google-research/deeplab2) | - |  predict class-labeled masks | Huiyu Wang |
+SemiSeg-Contrastive  | ICCV 2021 | [Link](https://github.com/Shathe/SemiSeg-Contrastive) | - |  Pixel-Level Contrastive Learning | Inigo Alonso |
+Point Transformer  | ICCV 2021 | - | - |  transformer for point cloud processing | Hengshuang Zhao |
+Self-training  | NeurIPS 2020 | [Link](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training) | - |   self-training | Barret Zoph |
 
 ## 3D Vision
 ### Novel View Synthesis (Image Inpainting)
