@@ -100,7 +100,10 @@ CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and 
 
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
+ DeepSDF | CVPR 2019 | [Link](https://github.com/facebookresearch/DeepSDF) | [Link](https://github.com/facebookresearch/DeepSDF) | AutoDecoder SDF | [Jeong Joon Park](https://scholar.google.com/citations?user=2feSMg8AAAAJ&hl=zh-CN&oi=sra)
+ IM-Net | CVPR 2019 | [Link](https://github.com/czq142857/implicit-decoder) | [Link](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) | Implicit Field Decoder | [Zhiqin Chen](https://www.sfu.ca/~zhiqinc/)
  BSPNet  | CVPR 2020 | [Link](https://github.com/czq142857/BSP-NET-original) | [Link](https://github.com/czq142857/BSP-NET-original) | Binary Space Partitioning | [Zhiqin Chen](https://www.sfu.ca/~zhiqinc/)
+ 
  
 ## Diffentiable Rendering
 
