@@ -106,6 +106,9 @@ CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and 
  BSPNet | CVPR 2020 | [Link](https://github.com/czq142857/BSP-NET-original) | -  | Binary Space Partitioning | [Zhiqin Chen](https://www.sfu.ca/~zhiqinc/)
  CVXNet | CVPR 2020 | [Link](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet) | [Link](https://cvxnet.github.io/) | Decomposition to convexes | [Boyang Deng](https://boyangdeng.com/)
  UCSG-Net | NIPS 2020 | [Link](https://github.com/kacperkan/ucsgnet) | [Link](https://kacperkan.github.io/ucsgnet/) | Tree representation of Boolean operations | [Kacper Kania](https://scholar.google.com/citations?user=1wHZ-XcAAAAJ)
+ Multi-Implicit Representation for Fonts | NIPS 2021 | [Link](https://github.com/preddy5/multi_implicit_fonts) | [Link](http://geometry.cs.ucl.ac.uk/projects/2021/multi_implicit_fonts/) | A soft function and optimized junctions | [Pradyumna Reddy](https://preddy5.github.io/)
+ Implicit Glyph Shape Representation | Arxiv | - | - | Quadratic SDF | Liu, Ying-Tian
+ 
  
  
  
