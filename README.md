@@ -108,7 +108,7 @@ CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and 
  UCSG-Net | NIPS 2020 | [Link](https://github.com/kacperkan/ucsgnet) | [Link](https://kacperkan.github.io/ucsgnet/) | Tree representation of Boolean operations | [Kacper Kania](https://scholar.google.com/citations?user=1wHZ-XcAAAAJ)
  Multi-Implicit Representation for Fonts | NIPS 2021 | [Link](https://github.com/preddy5/multi_implicit_fonts) | [Link](http://geometry.cs.ucl.ac.uk/projects/2021/multi_implicit_fonts/) | A soft function and optimized junctions | [Pradyumna Reddy](https://preddy5.github.io/)
  Implicit Glyph Shape Representation | Arxiv | - | - | Quadratic SDF | Liu, Ying-Tian
- UNIST | CVPR 2022 | [Link]https://qiminchen.github.io/unist/ | [Link]https://qiminchen.github.io/unist/ | deep neural implicit model for unpaired shape-to-shape translation | [Qimin Chen]https://qiminchen.github.io/
+ UNIST | CVPR 2022 | [Link](https://qiminchen.github.io/unist/) | [Link](https://qiminchen.github.io/unist/) | deep neural implicit model for unpaired shape-to-shape translation | [Qimin Chen](https://qiminchen.github.io/)
  
  
  
