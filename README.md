@@ -100,6 +100,7 @@ CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and 
 
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
+ MSDF | CGF 2018 | [Link](https://github.com/Chlumsky/msdfgen) | [Link](https://dcgi.fel.cvut.cz/publications/2018/sloup-cgf-msdf) | Multi-Channel SDF | [Jaroslav Sloup](https://dcgi.fel.cvut.cz/people/sloup)
  DeepSDF | CVPR 2019 | [Link](https://github.com/facebookresearch/DeepSDF) | - | AutoDecoder SDF | [Jeong Joon Park](https://scholar.google.com/citations?user=2feSMg8AAAAJ&hl=zh-CN&oi=sra)
  IM-Net | CVPR 2019 | [Link](https://github.com/czq142857/implicit-decoder) | [Link](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) | Implicit Field Decoder | [Zhiqin Chen](https://www.sfu.ca/~zhiqinc/)
  OccupancyNet | CVPR 2019 | [Link](https://github.com/autonomousvision/occupancy_networks) | [Link](https://avg.is.mpg.de/publications/occupancy-networks) | Reconstruction followed with Marching Cubes | [Lars Mescheder](https://avg.is.mpg.de/employees/lmescheder)
