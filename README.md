@@ -129,3 +129,14 @@ CIPS-3D  | Arxiv | [Link](https://github.com/PeterouZh/CIPS-3D) | - | style and 
   Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
   GLIDE  | [arXiv](https://arxiv.org/pdf/2112.10741.pdf) | [Link](https://github.com/openai/glide-text2im) | [demo](https://huggingface.co/spaces/valhalla/glide-text2im) | Text-guided image generation and editing with diffusion models | [Alex Nichol](https://aqnichol.com/)
+
+
+
+## EEG Decoding
+
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+ EEG-to-text | [AAAI 2022](https://aaai-2022.virtualchair.net/poster_aaai5965) | [Link](https://github.com/MikeWangWZHL/EEG-To-Text) | - | Open Vocabulary EEG-to-Text & Sentiment Classification | [Zhenhailong Wang](https://mikewangwzhl.github.io/)
+ Decode clinical factors from EEG | [ICLR 2021](https://openreview.net/forum?id=TVjLza1t4hI) | - | - | disentangled & interpretable representation for clinical factors detection  | [Garrett Honke](https://ghonk.github.io/)
+ CLISA | [TAFFC 2022](https://arxiv.org/pdf/2109.09559.pdf) | - | - | Contrastive Learning for Cross-Subject
+Emotion Recognition   | [Xinke Shen](https://scholar.google.com/citations?hl=zh-CN&user=c6hjNuwAAAAJ)
