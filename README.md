@@ -1,5 +1,5 @@
 # PKU-CSCL-Surveys
-[TOC]
+[toc]
 ## Font Generation
 
  Method  | Publication  | Code | Project | Core Idea | Authors
