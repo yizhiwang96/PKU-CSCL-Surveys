@@ -1,5 +1,19 @@
 # PKU-CSCL-Surveys
-[toc]
+- [Font Generation](#font-generation)
+- [Handwritting, Sketch and Vectorization](#handwritting--sketch-and-vectorization)
+- [Image and Texture Synthesis](#image-and-texture-synthesis)
+- [Deep Generative models](#deep-generative-models)
+- [Attractive Image Generation](#attractive-image-generation)
+- [Semantic Segmentation](#semantic-segmentation)
+- [3D Vision](#3d-vision)
+  * [Novel View Synthesis (Image Inpainting)](#novel-view-synthesis--image-inpainting-)
+  * [Novel View Synthesis (NeRF-alike)](#novel-view-synthesis--nerf-alike-)
+  * [3D-aware Image Synthesis (NeRF + GAN)](#3d-aware-image-synthesis--nerf---gan-)
+- [Implict function](#implict-function)
+- [Diffentiable Rendering](#diffentiable-rendering)
+- [Scene Text Detection and Recognition](#scene-text-detection-and-recognition)
+- [Multimodal Synthesis](#multimodal-synthesis)
+- [EEG Decoding](#eeg-decoding)
 ## Font Generation
 
  Method  | Publication  | Code | Project | Core Idea | Authors
