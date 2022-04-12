@@ -53,7 +53,7 @@ Projected GANs | NeurIPS 2021 | [Link](https://github.com/autonomousvision/proje
 ## Deep Generative models
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
-DDPM  | - | [Link](https://github.com/hojonathanho/diffusion) | - |  Denoising Diffusion Probabilistic Models | [Jonathan Ho](https://github.com/hojonathanho) |
+DDPM  | - | [Link](https://github.com/hojonathanho/diffusion) | - |  Denoising Diffusion Probabilistic Models | [Jonathan Ho](http://www.jonathanho.me/) |
 Flow++  | - | [Link](https://github.com/aravindsrinivas/flowpp) | - |  Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design | [Jonathan Ho](https://github.com/hojonathanho) |
 LDMs | arxiv | [Link](https://github.com/CompVis/latent-diffusion) | - | Autoregressive and diffusion models | [Robin Rombach](https://scholar.google.com/citations?user=ygdQhrIAAAAJ&hl=zh-CN&oi=sra)
 DenseFlow | NIPS 2021 | - | - | Densely connected normalizing flows | [Matej Grcic]
