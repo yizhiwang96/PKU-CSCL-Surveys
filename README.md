@@ -24,6 +24,7 @@
  MLFont | ICMR 2021 | [Link](https://github.com/Listening33/MLFont) | - | deep meta learning | Xu Chen
  DG-font | CVPR 2021 | [Link](https://github.com/ecnuycxie/DG-Font) | - | Deformable generative networks | Yangchen Xie
  ZiGAN | MM 2021 | - | - | Few-shot calligraphy font generation |Qi Wen, Shuang Li
+ XMF-Font | CVPR 2022 | - | - | Few-show font generation with self-supervised cross-modality pre-training | Wei Liu
  
 ## Handwritting, Sketch and Vectorization
 
