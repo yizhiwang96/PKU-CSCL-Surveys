@@ -3,6 +3,7 @@
 - [Handwritting, Sketch and Vectorization](#handwritting--sketch-and-vectorization)
 - [Image and Texture Synthesis](#image-and-texture-synthesis)
 - [Deep Generative models](#deep-generative-models)
+- [GAN dissection](#gan-dissection)
 - [Attractive Image Generation](#attractive-image-generation)
 - [Semantic Segmentation](#semantic-segmentation)
 - [3D Vision](#3d-vision)
@@ -59,6 +60,15 @@ LDMs | arxiv | [Link](https://github.com/CompVis/latent-diffusion) | - | Autoreg
 DenseFlow | NIPS 2021 | - | - | Densely connected normalizing flows | [Matej Grcic]
 LSGM | NeurIPS 2021 | - | -  | Score-based Generative Modeling in Latent Space | [Arash Vahdat]
 Progressive Distillation | ICLR 2022 | - | -  | PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS | [Jonathan Ho](https://github.com/hojonathanho) 
+
+## GAN dissection
+ Method  | Publication  | Code | Project | Core Idea | Authors
+ ---- | ----- | ------  | ------ | ------ | ------ 
+EditGAN  | NIPS 2021 | [Link](https://github.com/nv-tlabs/editGAN_release) | [Link](https://nv-tlabs.github.io/editGAN) | - | [Huan Ling](http://www.cs.toronto.edu/~linghuan/) |
+HFGI  | CVPR 2022 | [Link](https://github.com/Tengfei-Wang/HFGI) | [Link](https://tengfei-wang.github.io/HFGI/) | - | [Tengfei WANG](https://tengfei-wang.github.io/) |
+HyperStyle | CVPR 2022 | [Link](https://github.com/yuval-alaluf/hyperstyle) | [Link](https://yuval-alaluf.github.io/hyperstyle/) | - | [Yuval Alaluf](https://yuval-alaluf.github.io/)
+SemanticStyleGAN | CVPR 2022 | - | [Link](https://semanticstylegan.github.io/) | - | [Yichun Shi](https://seasonsh.github.io/)
+Style Transformer | CVPR 2022 | [Link](https://github.com/sapphire497/style-transformer) | -  | - | [Xueqi Hu](https://github.com/sapphire497)
 
 ## Attractive Image Generation
  Method  | Publication  | Code | Project | Core Idea | Authors
