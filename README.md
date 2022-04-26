@@ -3,7 +3,7 @@
 - [Handwritting, Sketch and Vectorization](#handwritting--sketch-and-vectorization)
 - [Image and Texture Synthesis](#image-and-texture-synthesis)
 - [Deep Generative models](#deep-generative-models)
-- [GAN dissection](#gan-dissection)
+- [Image editing and GAN dissection](#image-editing-and-gan-dissection)
 - [Attractive Image Generation](#attractive-image-generation)
 - [Semantic Segmentation](#semantic-segmentation)
 - [3D Vision](#3d-vision)
@@ -61,7 +61,7 @@ DenseFlow | NIPS 2021 | - | - | Densely connected normalizing flows | [Matej Grc
 LSGM | NeurIPS 2021 | - | -  | Score-based Generative Modeling in Latent Space | [Arash Vahdat]
 Progressive Distillation | ICLR 2022 | - | -  | PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS | [Jonathan Ho](https://github.com/hojonathanho) 
 
-## GAN dissection
+## Image editing and GAN dissection
  Method  | Publication  | Code | Project | Core Idea | Authors
  ---- | ----- | ------  | ------ | ------ | ------ 
 EditGAN  | NIPS 2021 | [Link](https://github.com/nv-tlabs/editGAN_release) | [Link](https://nv-tlabs.github.io/editGAN) | - | [Huan Ling](http://www.cs.toronto.edu/~linghuan/) |
