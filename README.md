@@ -50,6 +50,7 @@ CIPS | CVPR 2021 | [Link](https://github.com/saic-mdal/CIPS) | - |  Image Genera
 MaskGIT | - | [Link](https://github.com/saic-mdal/CIPS) | - |  Masked Generative Image Transformer | [Huiwen Chang] |
 StyleGAN3 | NeurIPS 2021 | [Link](https://github.com/NVlabs/stylegan3) | - |  Alias-Free Generative Adversarial Networks | [Tero Karras] |
 Projected GANs | NeurIPS 2021 | [Link](https://github.com/autonomousvision/projected_gan) | [Link](https://sites.google.com/view/projected-gan) |  Train GANs in pretrained feature spaces | [Axel Sauer](https://axelsauer.com/) |
+MCL-Net | CVPR 2022 | [Link](https://github.com/fnzhan/UNITE) | - |  Marginal Contrastive Learning for extracting domain invariant features  | [Fangneng Zhan](https://fnzhan.com/) |
 
 ## Deep Generative models
  Method  | Publication  | Code | Project | Core Idea | Authors
